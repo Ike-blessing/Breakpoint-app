@@ -162,6 +162,7 @@ export default {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,
+      hertechtrail: colors.rgb(255, 254, 246),
     }),
     columns: {
       auto: 'auto',
